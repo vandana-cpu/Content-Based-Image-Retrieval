@@ -6,7 +6,7 @@ Simple Streamlit UI for content-based image retrieval using a pretrained ResNet5
 - Dependencies: [requirements.txt](requirements.txt)
 - Training / dataset folder: [Train/](Train)
 
-## Quickstart
+## Quickstart :
 
 The project works best inside a Python virtual environment. Example commands used by the author:
 
